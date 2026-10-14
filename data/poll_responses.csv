@@ -1,0 +1,501 @@
+Respondent ID,Timestamp,Question,Option,Region,Age Group
+R0001,2026-09-22 04:32:00,Which data tool do you prefer?,Power BI,North,18-24
+R0002,2026-09-11 09:56:00,Which data tool do you prefer?,Tableau,West,25-34
+R0003,2026-09-10 03:51:00,Which data tool do you prefer?,Excel,West,18-24
+R0004,2026-09-13 21:35:00,Which data tool do you prefer?,Python,East,18-24
+R0005,2026-09-24 21:33:00,Which data tool do you prefer?,Python,East,25-34
+R0006,2026-09-10 16:47:00,Which data tool do you prefer?,Power BI,Central,25-34
+R0007,2026-10-07 13:36:00,Which data tool do you prefer?,Power BI,North,45+
+R0008,2026-09-20 04:40:00,Which data tool do you prefer?,Python,West,18-24
+R0009,2026-10-05 12:44:00,Which data tool do you prefer?,Python,South,35-44
+R0010,2026-09-28 07:55:00,Which data tool do you prefer?,Excel,North,25-34
+R0011,2026-09-14 08:01:00,Which data tool do you prefer?,Python,East,25-34
+R0012,2026-09-10 03:07:00,Which data tool do you prefer?,Tableau,Central,25-34
+R0013,2026-09-30 18:11:00,Which data tool do you prefer?,Python,West,25-34
+R0014,2026-09-14 05:30:00,Which data tool do you prefer?,Python,West,45+
+R0015,2026-09-10 20:59:00,Which data tool do you prefer?,Tableau,West,18-24
+R0016,2026-10-08 05:10:00,Which data tool do you prefer?,Python,West,18-24
+R0017,2026-09-20 07:19:00,Which data tool do you prefer?,Python,East,25-34
+R0018,2026-09-02 22:37:00,Which data tool do you prefer?,Python,North,35-44
+R0019,2026-09-20 18:58:00,Which data tool do you prefer?,Python,Central,18-24
+R0020,2026-09-19 10:20:00,Which data tool do you prefer?,Python,East,25-34
+R0021,2026-10-05 13:24:00,Which data tool do you prefer?,Python,East,45+
+R0022,2026-09-29 11:05:00,Which data tool do you prefer?,Python,South,35-44
+R0023,2026-09-08 15:42:00,Which data tool do you prefer?,Python,North,45+
+R0024,2026-09-07 00:26:00,Which data tool do you prefer?,Power BI,Central,25-34
+R0025,2026-09-25 03:27:00,Which data tool do you prefer?,Power BI,West,25-34
+R0026,2026-09-02 21:28:00,Which data tool do you prefer?,Excel,West,18-24
+R0027,2026-09-13 18:15:00,Which data tool do you prefer?,Python,East,45+
+R0028,2026-09-06 12:40:00,Which data tool do you prefer?,Excel,Central,18-24
+R0029,2026-09-01 19:44:00,Which data tool do you prefer?,Tableau,East,35-44
+R0030,2026-10-07 18:04:00,Which data tool do you prefer?,Tableau,East,25-34
+R0031,2026-09-04 14:13:00,Which data tool do you prefer?,Python,East,25-34
+R0032,2026-09-01 08:53:00,Which data tool do you prefer?,Python,South,35-44
+R0033,2026-10-08 07:34:00,Which data tool do you prefer?,Python,North,25-34
+R0034,2026-09-08 12:47:00,Which data tool do you prefer?,Python,East,45+
+R0035,2026-10-03 15:53:00,Which data tool do you prefer?,Excel,Central,25-34
+R0036,2026-09-02 06:01:00,Which data tool do you prefer?,Python,North,25-34
+R0037,2026-09-07 03:24:00,Which data tool do you prefer?,Python,Central,18-24
+R0038,2026-09-05 10:12:00,Which data tool do you prefer?,Excel,Central,25-34
+R0039,2026-09-29 06:00:00,Which data tool do you prefer?,Excel,South,25-34
+R0040,2026-09-25 19:20:00,Which data tool do you prefer?,Python,West,18-24
+R0041,2026-09-20 00:28:00,Which data tool do you prefer?,Power BI,North,18-24
+R0042,2026-09-10 15:58:00,Which data tool do you prefer?,Python,West,25-34
+R0043,2026-09-04 13:18:00,Which data tool do you prefer?,Tableau,West,25-34
+R0044,2026-09-23 18:26:00,Which data tool do you prefer?,Python,South,25-34
+R0045,2026-09-10 05:29:00,Which data tool do you prefer?,Power BI,North,18-24
+R0046,2026-09-24 14:35:00,Which data tool do you prefer?,Tableau,Central,18-24
+R0047,2026-09-28 11:58:00,Which data tool do you prefer?,Tableau,East,18-24
+R0048,2026-10-04 23:27:00,Which data tool do you prefer?,Power BI,Central,35-44
+R0049,2026-09-20 18:13:00,Which data tool do you prefer?,Power BI,West,35-44
+R0050,2026-09-01 04:33:00,Which data tool do you prefer?,Power BI,West,18-24
+R0051,2026-09-12 05:26:00,Which data tool do you prefer?,Power BI,West,25-34
+R0052,2026-10-05 03:14:00,Which data tool do you prefer?,Python,North,18-24
+R0053,2026-09-22 07:55:00,Which data tool do you prefer?,Excel,South,18-24
+R0054,2026-09-25 18:21:00,Which data tool do you prefer?,Excel,East,18-24
+R0055,2026-09-19 07:30:00,Which data tool do you prefer?,Tableau,East,18-24
+R0056,2026-09-07 12:14:00,Which data tool do you prefer?,Excel,North,25-34
+R0057,2026-10-06 20:50:00,Which data tool do you prefer?,Excel,East,45+
+R0058,2026-10-01 22:01:00,Which data tool do you prefer?,Power BI,North,18-24
+R0059,2026-10-10 19:22:00,Which data tool do you prefer?,Python,West,25-34
+R0060,2026-10-05 05:16:00,Which data tool do you prefer?,Python,West,35-44
+R0061,2026-09-12 15:29:00,Which data tool do you prefer?,Excel,Central,45+
+R0062,2026-09-11 04:05:00,Which data tool do you prefer?,Excel,West,25-34
+R0063,2026-09-10 22:32:00,Which data tool do you prefer?,Python,South,18-24
+R0064,2026-10-07 18:02:00,Which data tool do you prefer?,Excel,Central,25-34
+R0065,2026-09-23 06:39:00,Which data tool do you prefer?,Excel,East,18-24
+R0066,2026-09-19 04:16:00,Which data tool do you prefer?,Excel,South,45+
+R0067,2026-10-09 17:31:00,Which data tool do you prefer?,Excel,Central,25-34
+R0068,2026-09-25 03:17:00,Which data tool do you prefer?,Power BI,South,25-34
+R0069,2026-10-07 09:03:00,Which data tool do you prefer?,Python,North,18-24
+R0070,2026-10-10 09:15:00,Which data tool do you prefer?,Tableau,East,25-34
+R0071,2026-09-04 04:16:00,Which data tool do you prefer?,Tableau,West,35-44
+R0072,2026-09-15 11:04:00,Which data tool do you prefer?,Excel,North,25-34
+R0073,2026-09-30 08:46:00,Which data tool do you prefer?,Python,East,25-34
+R0074,2026-10-03 12:37:00,Which data tool do you prefer?,Excel,North,45+
+R0075,2026-09-06 22:32:00,Which data tool do you prefer?,Tableau,West,35-44
+R0076,2026-09-13 17:39:00,Which data tool do you prefer?,Power BI,East,18-24
+R0077,2026-09-22 22:14:00,Which data tool do you prefer?,Power BI,South,25-34
+R0078,2026-10-02 23:14:00,Which data tool do you prefer?,Excel,South,25-34
+R0079,2026-09-05 12:26:00,Which data tool do you prefer?,Power BI,East,25-34
+R0080,2026-09-25 00:42:00,Which data tool do you prefer?,Python,West,18-24
+R0081,2026-09-12 20:35:00,Which data tool do you prefer?,Power BI,Central,18-24
+R0082,2026-09-09 15:42:00,Which data tool do you prefer?,Python,East,45+
+R0083,2026-09-21 14:46:00,Which data tool do you prefer?,Power BI,North,45+
+R0084,2026-09-17 13:27:00,Which data tool do you prefer?,Tableau,Central,35-44
+R0085,2026-09-26 10:16:00,Which data tool do you prefer?,Python,West,45+
+R0086,2026-09-13 16:55:00,Which data tool do you prefer?,Power BI,West,35-44
+R0087,2026-10-03 22:20:00,Which data tool do you prefer?,Python,North,35-44
+R0088,2026-09-04 02:59:00,Which data tool do you prefer?,Power BI,South,35-44
+R0089,2026-10-05 11:24:00,Which data tool do you prefer?,Python,West,25-34
+R0090,2026-09-02 04:38:00,Which data tool do you prefer?,Tableau,Central,25-34
+R0091,2026-09-30 10:27:00,Which data tool do you prefer?,Python,East,18-24
+R0092,2026-09-14 20:37:00,Which data tool do you prefer?,Tableau,Central,25-34
+R0093,2026-09-16 08:00:00,Which data tool do you prefer?,Power BI,Central,18-24
+R0094,2026-09-01 18:16:00,Which data tool do you prefer?,Power BI,South,18-24
+R0095,2026-09-29 02:00:00,Which data tool do you prefer?,Power BI,Central,25-34
+R0096,2026-09-07 14:52:00,Which data tool do you prefer?,Power BI,South,25-34
+R0097,2026-09-27 08:47:00,Which data tool do you prefer?,Tableau,South,18-24
+R0098,2026-09-30 00:10:00,Which data tool do you prefer?,Python,West,35-44
+R0099,2026-10-04 19:25:00,Which data tool do you prefer?,Power BI,West,35-44
+R0100,2026-09-29 07:46:00,Which data tool do you prefer?,Python,North,18-24
+R0101,2026-09-13 01:26:00,Which data tool do you prefer?,Power BI,Central,18-24
+R0102,2026-09-30 13:02:00,Which data tool do you prefer?,Python,North,18-24
+R0103,2026-10-04 00:54:00,Which data tool do you prefer?,Excel,Central,35-44
+R0104,2026-09-13 16:28:00,Which data tool do you prefer?,Excel,North,35-44
+R0105,2026-09-05 23:12:00,Which data tool do you prefer?,Excel,West,18-24
+R0106,2026-10-06 14:25:00,Which data tool do you prefer?,Excel,West,35-44
+R0107,2026-09-06 22:01:00,Which data tool do you prefer?,Power BI,West,18-24
+R0108,2026-09-24 18:04:00,Which data tool do you prefer?,Power BI,West,25-34
+R0109,2026-09-10 10:49:00,Which data tool do you prefer?,Excel,East,45+
+R0110,2026-09-06 00:59:00,Which data tool do you prefer?,Power BI,West,18-24
+R0111,2026-10-02 01:21:00,Which data tool do you prefer?,Tableau,South,18-24
+R0112,2026-09-06 17:58:00,Which data tool do you prefer?,Python,West,25-34
+R0113,2026-09-27 19:25:00,Which data tool do you prefer?,Python,East,25-34
+R0114,2026-09-28 17:22:00,Which data tool do you prefer?,Python,East,45+
+R0115,2026-09-03 09:49:00,Which data tool do you prefer?,Power BI,East,45+
+R0116,2026-09-07 22:01:00,Which data tool do you prefer?,Excel,East,18-24
+R0117,2026-10-02 18:35:00,Which data tool do you prefer?,Power BI,North,18-24
+R0118,2026-09-21 07:00:00,Which data tool do you prefer?,Power BI,North,35-44
+R0119,2026-09-05 20:29:00,Which data tool do you prefer?,Excel,South,18-24
+R0120,2026-10-10 16:06:00,Which data tool do you prefer?,Tableau,North,45+
+R0121,2026-09-11 14:23:00,Which data tool do you prefer?,Power BI,East,25-34
+R0122,2026-09-01 03:50:00,Which data tool do you prefer?,Python,West,18-24
+R0123,2026-10-07 23:11:00,Which data tool do you prefer?,Excel,West,35-44
+R0124,2026-09-01 15:54:00,Which data tool do you prefer?,Python,East,18-24
+R0125,2026-09-23 03:13:00,Which data tool do you prefer?,Python,Central,25-34
+R0126,2026-10-10 17:21:00,Which data tool do you prefer?,Python,East,25-34
+R0127,2026-09-24 02:41:00,Which data tool do you prefer?,Tableau,North,25-34
+R0128,2026-09-24 09:15:00,Which data tool do you prefer?,Excel,West,25-34
+R0129,2026-09-16 12:38:00,Which data tool do you prefer?,Excel,East,25-34
+R0130,2026-09-06 01:50:00,Which data tool do you prefer?,Power BI,West,45+
+R0131,2026-09-23 21:47:00,Which data tool do you prefer?,Excel,East,45+
+R0132,2026-10-06 21:24:00,Which data tool do you prefer?,Tableau,East,25-34
+R0133,2026-09-04 15:27:00,Which data tool do you prefer?,Power BI,North,18-24
+R0134,2026-10-06 05:09:00,Which data tool do you prefer?,Excel,East,35-44
+R0135,2026-09-17 14:26:00,Which data tool do you prefer?,Excel,West,45+
+R0136,2026-09-22 10:45:00,Which data tool do you prefer?,Tableau,South,18-24
+R0137,2026-09-07 14:47:00,Which data tool do you prefer?,Power BI,West,25-34
+R0138,2026-09-25 20:55:00,Which data tool do you prefer?,Tableau,North,25-34
+R0139,2026-09-08 07:03:00,Which data tool do you prefer?,Python,South,18-24
+R0140,2026-09-11 22:15:00,Which data tool do you prefer?,Tableau,East,25-34
+R0141,2026-09-29 20:44:00,Which data tool do you prefer?,Power BI,Central,18-24
+R0142,2026-09-03 00:29:00,Which data tool do you prefer?,Python,South,35-44
+R0143,2026-09-18 21:17:00,Which data tool do you prefer?,Power BI,South,35-44
+R0144,2026-09-24 18:47:00,Which data tool do you prefer?,Power BI,East,35-44
+R0145,2026-09-06 06:44:00,Which data tool do you prefer?,Python,Central,25-34
+R0146,2026-09-12 18:57:00,Which data tool do you prefer?,Excel,Central,18-24
+R0147,2026-09-14 17:45:00,Which data tool do you prefer?,Power BI,North,35-44
+R0148,2026-09-27 13:04:00,Which data tool do you prefer?,Python,South,35-44
+R0149,2026-10-10 01:38:00,Which data tool do you prefer?,Excel,Central,25-34
+R0150,2026-10-04 10:47:00,Which data tool do you prefer?,Excel,North,45+
+R0151,2026-09-08 14:10:00,Which data tool do you prefer?,Python,Central,18-24
+R0152,2026-09-01 17:26:00,Which data tool do you prefer?,Tableau,South,35-44
+R0153,2026-09-03 01:50:00,Which data tool do you prefer?,Power BI,Central,18-24
+R0154,2026-09-24 19:53:00,Which data tool do you prefer?,Python,South,18-24
+R0155,2026-09-07 06:00:00,Which data tool do you prefer?,Tableau,East,25-34
+R0156,2026-09-10 06:01:00,Which data tool do you prefer?,Tableau,West,18-24
+R0157,2026-10-04 21:29:00,Which data tool do you prefer?,Python,North,18-24
+R0158,2026-10-05 22:55:00,Which data tool do you prefer?,Tableau,East,18-24
+R0159,2026-10-04 13:28:00,Which data tool do you prefer?,Python,East,25-34
+R0160,2026-09-11 03:31:00,Which data tool do you prefer?,Tableau,West,35-44
+R0161,2026-09-25 18:53:00,Which data tool do you prefer?,Power BI,Central,18-24
+R0162,2026-09-25 10:20:00,Which data tool do you prefer?,Power BI,West,25-34
+R0163,2026-09-08 09:50:00,Which data tool do you prefer?,Python,East,35-44
+R0164,2026-09-23 03:23:00,Which data tool do you prefer?,Tableau,East,18-24
+R0165,2026-09-22 00:14:00,Which data tool do you prefer?,Python,East,18-24
+R0166,2026-09-16 20:19:00,Which data tool do you prefer?,Python,Central,35-44
+R0167,2026-10-01 01:35:00,Which data tool do you prefer?,Python,South,35-44
+R0168,2026-09-28 02:30:00,Which data tool do you prefer?,Power BI,North,25-34
+R0169,2026-09-22 07:20:00,Which data tool do you prefer?,Python,South,35-44
+R0170,2026-09-30 00:44:00,Which data tool do you prefer?,Tableau,North,18-24
+R0171,2026-10-01 12:35:00,Which data tool do you prefer?,Power BI,North,25-34
+R0172,2026-09-23 16:15:00,Which data tool do you prefer?,Python,North,35-44
+R0173,2026-09-11 16:58:00,Which data tool do you prefer?,Python,West,18-24
+R0174,2026-10-01 08:05:00,Which data tool do you prefer?,Python,West,35-44
+R0175,2026-09-29 16:54:00,Which data tool do you prefer?,Power BI,West,25-34
+R0176,2026-10-10 08:04:00,Which data tool do you prefer?,Power BI,East,35-44
+R0177,2026-09-06 23:47:00,Which data tool do you prefer?,Python,West,25-34
+R0178,2026-09-17 18:30:00,Which data tool do you prefer?,Power BI,North,18-24
+R0179,2026-10-07 23:15:00,Which data tool do you prefer?,Python,Central,18-24
+R0180,2026-09-21 13:59:00,Which data tool do you prefer?,Power BI,East,18-24
+R0181,2026-10-08 16:55:00,Which data tool do you prefer?,Tableau,Central,35-44
+R0182,2026-09-01 11:58:00,Which data tool do you prefer?,Power BI,North,18-24
+R0183,2026-09-02 09:45:00,Which data tool do you prefer?,Power BI,East,18-24
+R0184,2026-10-02 20:11:00,Which data tool do you prefer?,Tableau,West,18-24
+R0185,2026-09-15 08:05:00,Which data tool do you prefer?,Python,East,18-24
+R0186,2026-09-21 19:25:00,Which data tool do you prefer?,Python,East,35-44
+R0187,2026-09-18 02:53:00,Which data tool do you prefer?,Python,North,25-34
+R0188,2026-09-17 07:38:00,Which data tool do you prefer?,Excel,South,45+
+R0189,2026-10-08 13:53:00,Which data tool do you prefer?,Power BI,South,18-24
+R0190,2026-09-04 18:18:00,Which data tool do you prefer?,Power BI,South,25-34
+R0191,2026-10-01 21:19:00,Which data tool do you prefer?,Tableau,West,25-34
+R0192,2026-10-06 14:04:00,Which data tool do you prefer?,Python,West,25-34
+R0193,2026-09-27 07:06:00,Which data tool do you prefer?,Power BI,West,35-44
+R0194,2026-09-16 19:12:00,Which data tool do you prefer?,Python,South,45+
+R0195,2026-09-07 09:36:00,Which data tool do you prefer?,Python,Central,35-44
+R0196,2026-09-28 07:16:00,Which data tool do you prefer?,Power BI,North,18-24
+R0197,2026-09-19 18:02:00,Which data tool do you prefer?,Tableau,South,18-24
+R0198,2026-09-06 23:23:00,Which data tool do you prefer?,Excel,North,25-34
+R0199,2026-09-15 09:15:00,Which data tool do you prefer?,Python,South,18-24
+R0200,2026-10-09 11:05:00,Which data tool do you prefer?,Power BI,Central,35-44
+R0201,2026-09-11 14:46:00,Which data tool do you prefer?,Python,South,25-34
+R0202,2026-09-08 03:18:00,Which data tool do you prefer?,Tableau,Central,25-34
+R0203,2026-09-28 06:41:00,Which data tool do you prefer?,Power BI,East,35-44
+R0204,2026-09-08 23:33:00,Which data tool do you prefer?,Python,West,35-44
+R0205,2026-10-07 19:06:00,Which data tool do you prefer?,Python,East,18-24
+R0206,2026-10-05 08:37:00,Which data tool do you prefer?,Python,South,18-24
+R0207,2026-10-10 08:11:00,Which data tool do you prefer?,Tableau,West,25-34
+R0208,2026-10-07 12:04:00,Which data tool do you prefer?,Excel,Central,25-34
+R0209,2026-09-10 18:00:00,Which data tool do you prefer?,Power BI,South,18-24
+R0210,2026-09-09 11:39:00,Which data tool do you prefer?,Power BI,West,25-34
+R0211,2026-09-14 16:56:00,Which data tool do you prefer?,Power BI,South,35-44
+R0212,2026-09-19 19:00:00,Which data tool do you prefer?,Python,West,35-44
+R0213,2026-10-06 04:47:00,Which data tool do you prefer?,Tableau,West,25-34
+R0214,2026-09-30 08:09:00,Which data tool do you prefer?,Python,East,25-34
+R0215,2026-09-26 18:39:00,Which data tool do you prefer?,Power BI,West,18-24
+R0216,2026-10-06 03:13:00,Which data tool do you prefer?,Power BI,South,25-34
+R0217,2026-09-26 20:03:00,Which data tool do you prefer?,Power BI,North,18-24
+R0218,2026-09-16 03:53:00,Which data tool do you prefer?,Tableau,North,25-34
+R0219,2026-09-17 12:28:00,Which data tool do you prefer?,Python,East,25-34
+R0220,2026-09-21 16:20:00,Which data tool do you prefer?,Excel,Central,18-24
+R0221,2026-09-04 13:13:00,Which data tool do you prefer?,Python,North,18-24
+R0222,2026-09-30 16:02:00,Which data tool do you prefer?,Excel,East,18-24
+R0223,2026-09-27 02:39:00,Which data tool do you prefer?,Python,West,45+
+R0224,2026-09-30 05:53:00,Which data tool do you prefer?,Python,South,25-34
+R0225,2026-09-22 08:35:00,Which data tool do you prefer?,Python,West,18-24
+R0226,2026-10-02 07:38:00,Which data tool do you prefer?,Python,South,45+
+R0227,2026-10-08 23:45:00,Which data tool do you prefer?,Excel,Central,25-34
+R0228,2026-09-23 19:08:00,Which data tool do you prefer?,Excel,East,25-34
+R0229,2026-09-18 18:36:00,Which data tool do you prefer?,Power BI,East,45+
+R0230,2026-09-05 04:25:00,Which data tool do you prefer?,Python,North,18-24
+R0231,2026-10-02 03:31:00,Which data tool do you prefer?,Excel,East,18-24
+R0232,2026-10-07 03:48:00,Which data tool do you prefer?,Python,Central,25-34
+R0233,2026-09-28 23:30:00,Which data tool do you prefer?,Excel,North,18-24
+R0234,2026-10-05 14:56:00,Which data tool do you prefer?,Python,West,25-34
+R0235,2026-10-05 10:45:00,Which data tool do you prefer?,Python,East,18-24
+R0236,2026-10-02 22:10:00,Which data tool do you prefer?,Excel,West,18-24
+R0237,2026-09-21 02:45:00,Which data tool do you prefer?,Excel,West,18-24
+R0238,2026-09-04 23:52:00,Which data tool do you prefer?,Python,East,25-34
+R0239,2026-09-01 03:06:00,Which data tool do you prefer?,Power BI,South,18-24
+R0240,2026-09-09 04:13:00,Which data tool do you prefer?,Power BI,West,18-24
+R0241,2026-09-18 05:47:00,Which data tool do you prefer?,Power BI,North,35-44
+R0242,2026-09-30 17:51:00,Which data tool do you prefer?,Power BI,East,18-24
+R0243,2026-09-19 05:34:00,Which data tool do you prefer?,Power BI,North,18-24
+R0244,2026-09-01 22:12:00,Which data tool do you prefer?,Python,West,18-24
+R0245,2026-09-09 09:55:00,Which data tool do you prefer?,Power BI,West,18-24
+R0246,2026-10-10 04:03:00,Which data tool do you prefer?,Excel,North,18-24
+R0247,2026-10-10 12:30:00,Which data tool do you prefer?,Excel,West,25-34
+R0248,2026-09-16 02:03:00,Which data tool do you prefer?,Power BI,East,18-24
+R0249,2026-10-03 04:47:00,Which data tool do you prefer?,Excel,West,45+
+R0250,2026-09-29 18:32:00,Which data tool do you prefer?,Excel,North,45+
+R0251,2026-10-08 06:01:00,Which data tool do you prefer?,Power BI,North,18-24
+R0252,2026-10-06 12:04:00,Which data tool do you prefer?,Tableau,East,18-24
+R0253,2026-09-26 03:35:00,Which data tool do you prefer?,Tableau,North,18-24
+R0254,2026-09-16 18:50:00,Which data tool do you prefer?,Excel,South,25-34
+R0255,2026-09-26 01:35:00,Which data tool do you prefer?,Excel,West,18-24
+R0256,2026-09-13 18:22:00,Which data tool do you prefer?,Power BI,North,35-44
+R0257,2026-09-14 22:10:00,Which data tool do you prefer?,Python,West,35-44
+R0258,2026-09-25 08:23:00,Which data tool do you prefer?,Power BI,North,35-44
+R0259,2026-09-23 20:32:00,Which data tool do you prefer?,Excel,North,25-34
+R0260,2026-09-24 05:44:00,Which data tool do you prefer?,Python,East,45+
+R0261,2026-09-16 09:17:00,Which data tool do you prefer?,Python,West,18-24
+R0262,2026-09-17 08:46:00,Which data tool do you prefer?,Power BI,North,25-34
+R0263,2026-09-01 09:47:00,Which data tool do you prefer?,Python,South,18-24
+R0264,2026-09-25 01:42:00,Which data tool do you prefer?,Python,Central,45+
+R0265,2026-09-24 00:45:00,Which data tool do you prefer?,Excel,Central,25-34
+R0266,2026-10-08 09:57:00,Which data tool do you prefer?,Python,East,35-44
+R0267,2026-09-21 04:06:00,Which data tool do you prefer?,Python,East,18-24
+R0268,2026-09-19 16:56:00,Which data tool do you prefer?,Power BI,South,45+
+R0269,2026-09-03 16:58:00,Which data tool do you prefer?,Python,West,25-34
+R0270,2026-09-08 20:52:00,Which data tool do you prefer?,Tableau,East,25-34
+R0271,2026-09-14 12:30:00,Which data tool do you prefer?,Tableau,South,45+
+R0272,2026-09-16 02:07:00,Which data tool do you prefer?,Python,North,25-34
+R0273,2026-09-15 12:10:00,Which data tool do you prefer?,Python,North,25-34
+R0274,2026-09-16 18:20:00,Which data tool do you prefer?,Power BI,Central,25-34
+R0275,2026-10-01 18:09:00,Which data tool do you prefer?,Python,East,18-24
+R0276,2026-09-06 05:51:00,Which data tool do you prefer?,Excel,East,18-24
+R0277,2026-09-14 06:58:00,Which data tool do you prefer?,Tableau,East,18-24
+R0278,2026-09-07 12:21:00,Which data tool do you prefer?,Tableau,West,18-24
+R0279,2026-09-13 07:29:00,Which data tool do you prefer?,Power BI,North,35-44
+R0280,2026-09-28 09:10:00,Which data tool do you prefer?,Python,North,25-34
+R0281,2026-09-02 20:53:00,Which data tool do you prefer?,Power BI,South,18-24
+R0282,2026-09-14 13:53:00,Which data tool do you prefer?,Power BI,East,25-34
+R0283,2026-09-01 22:44:00,Which data tool do you prefer?,Excel,West,25-34
+R0284,2026-10-09 04:42:00,Which data tool do you prefer?,Power BI,East,25-34
+R0285,2026-09-30 02:10:00,Which data tool do you prefer?,Python,East,45+
+R0286,2026-09-10 17:51:00,Which data tool do you prefer?,Python,Central,45+
+R0287,2026-09-08 22:16:00,Which data tool do you prefer?,Excel,North,25-34
+R0288,2026-09-04 22:58:00,Which data tool do you prefer?,Python,East,18-24
+R0289,2026-09-19 21:57:00,Which data tool do you prefer?,Python,East,25-34
+R0290,2026-10-01 03:21:00,Which data tool do you prefer?,Tableau,East,25-34
+R0291,2026-09-24 08:50:00,Which data tool do you prefer?,Tableau,Central,25-34
+R0292,2026-10-06 05:47:00,Which data tool do you prefer?,Power BI,South,25-34
+R0293,2026-09-14 18:03:00,Which data tool do you prefer?,Tableau,Central,25-34
+R0294,2026-09-12 02:59:00,Which data tool do you prefer?,Tableau,South,18-24
+R0295,2026-09-20 02:55:00,Which data tool do you prefer?,Python,East,18-24
+R0296,2026-09-09 02:00:00,Which data tool do you prefer?,Excel,East,18-24
+R0297,2026-10-10 00:37:00,Which data tool do you prefer?,Excel,Central,18-24
+R0298,2026-09-08 10:20:00,Which data tool do you prefer?,Python,East,18-24
+R0299,2026-09-20 03:42:00,Which data tool do you prefer?,Power BI,South,35-44
+R0300,2026-09-21 21:07:00,Which data tool do you prefer?,Excel,North,25-34
+R0301,2026-09-03 06:45:00,Which data tool do you prefer?,Excel,South,18-24
+R0302,2026-09-19 17:40:00,Which data tool do you prefer?,Python,Central,25-34
+R0303,2026-09-19 04:30:00,Which data tool do you prefer?,Python,North,35-44
+R0304,2026-09-11 09:03:00,Which data tool do you prefer?,Tableau,Central,18-24
+R0305,2026-09-06 02:50:00,Which data tool do you prefer?,Python,East,35-44
+R0306,2026-09-02 19:21:00,Which data tool do you prefer?,Python,North,45+
+R0307,2026-09-01 08:14:00,Which data tool do you prefer?,Python,South,25-34
+R0308,2026-09-20 06:13:00,Which data tool do you prefer?,Excel,East,25-34
+R0309,2026-09-04 14:14:00,Which data tool do you prefer?,Power BI,South,18-24
+R0310,2026-10-09 08:57:00,Which data tool do you prefer?,Excel,North,45+
+R0311,2026-09-10 18:57:00,Which data tool do you prefer?,Python,West,25-34
+R0312,2026-09-27 02:25:00,Which data tool do you prefer?,Python,West,45+
+R0313,2026-09-27 22:32:00,Which data tool do you prefer?,Power BI,North,25-34
+R0314,2026-09-20 19:41:00,Which data tool do you prefer?,Power BI,South,18-24
+R0315,2026-10-06 08:16:00,Which data tool do you prefer?,Power BI,South,18-24
+R0316,2026-09-05 10:15:00,Which data tool do you prefer?,Power BI,West,25-34
+R0317,2026-09-10 08:40:00,Which data tool do you prefer?,Power BI,West,25-34
+R0318,2026-09-11 02:20:00,Which data tool do you prefer?,Python,West,18-24
+R0319,2026-09-06 09:59:00,Which data tool do you prefer?,Excel,Central,35-44
+R0320,2026-09-12 18:58:00,Which data tool do you prefer?,Excel,West,35-44
+R0321,2026-09-13 12:10:00,Which data tool do you prefer?,Excel,South,25-34
+R0322,2026-10-01 14:12:00,Which data tool do you prefer?,Power BI,North,25-34
+R0323,2026-09-13 01:33:00,Which data tool do you prefer?,Excel,West,18-24
+R0324,2026-10-06 01:38:00,Which data tool do you prefer?,Power BI,Central,35-44
+R0325,2026-10-01 21:46:00,Which data tool do you prefer?,Tableau,Central,18-24
+R0326,2026-10-07 01:34:00,Which data tool do you prefer?,Excel,South,35-44
+R0327,2026-09-05 05:00:00,Which data tool do you prefer?,Tableau,South,18-24
+R0328,2026-10-10 09:11:00,Which data tool do you prefer?,Excel,North,25-34
+R0329,2026-09-25 13:24:00,Which data tool do you prefer?,Tableau,North,18-24
+R0330,2026-10-10 07:04:00,Which data tool do you prefer?,Excel,East,18-24
+R0331,2026-09-15 04:38:00,Which data tool do you prefer?,Excel,East,35-44
+R0332,2026-10-09 02:52:00,Which data tool do you prefer?,Excel,South,25-34
+R0333,2026-09-24 13:03:00,Which data tool do you prefer?,Python,South,25-34
+R0334,2026-09-03 20:56:00,Which data tool do you prefer?,Excel,Central,45+
+R0335,2026-09-17 09:43:00,Which data tool do you prefer?,Tableau,East,45+
+R0336,2026-09-06 12:16:00,Which data tool do you prefer?,Power BI,Central,35-44
+R0337,2026-10-08 15:37:00,Which data tool do you prefer?,Python,Central,18-24
+R0338,2026-09-13 04:17:00,Which data tool do you prefer?,Excel,South,25-34
+R0339,2026-09-09 21:28:00,Which data tool do you prefer?,Python,South,35-44
+R0340,2026-09-23 02:46:00,Which data tool do you prefer?,Python,Central,18-24
+R0341,2026-09-18 00:09:00,Which data tool do you prefer?,Tableau,West,18-24
+R0342,2026-09-04 21:05:00,Which data tool do you prefer?,Excel,South,35-44
+R0343,2026-10-03 15:50:00,Which data tool do you prefer?,Python,West,25-34
+R0344,2026-10-04 19:57:00,Which data tool do you prefer?,Excel,East,25-34
+R0345,2026-09-30 17:14:00,Which data tool do you prefer?,Python,Central,45+
+R0346,2026-09-25 16:05:00,Which data tool do you prefer?,Python,South,25-34
+R0347,2026-09-17 02:27:00,Which data tool do you prefer?,Power BI,Central,25-34
+R0348,2026-09-22 16:40:00,Which data tool do you prefer?,Power BI,Central,18-24
+R0349,2026-09-21 20:09:00,Which data tool do you prefer?,Tableau,North,25-34
+R0350,2026-09-07 14:41:00,Which data tool do you prefer?,Power BI,North,18-24
+R0351,2026-09-04 06:32:00,Which data tool do you prefer?,Excel,East,35-44
+R0352,2026-09-11 03:07:00,Which data tool do you prefer?,Power BI,North,35-44
+R0353,2026-09-19 04:09:00,Which data tool do you prefer?,Tableau,South,18-24
+R0354,2026-09-07 09:53:00,Which data tool do you prefer?,Power BI,East,18-24
+R0355,2026-09-05 06:24:00,Which data tool do you prefer?,Tableau,Central,35-44
+R0356,2026-10-05 01:51:00,Which data tool do you prefer?,Power BI,Central,18-24
+R0357,2026-09-15 23:59:00,Which data tool do you prefer?,Tableau,North,25-34
+R0358,2026-09-24 08:51:00,Which data tool do you prefer?,Python,Central,25-34
+R0359,2026-09-21 23:04:00,Which data tool do you prefer?,Power BI,North,25-34
+R0360,2026-09-30 09:43:00,Which data tool do you prefer?,Excel,West,18-24
+R0361,2026-09-30 14:13:00,Which data tool do you prefer?,Excel,Central,25-34
+R0362,2026-09-12 20:11:00,Which data tool do you prefer?,Power BI,Central,18-24
+R0363,2026-10-04 21:59:00,Which data tool do you prefer?,Tableau,South,25-34
+R0364,2026-09-15 20:24:00,Which data tool do you prefer?,Tableau,Central,18-24
+R0365,2026-10-04 09:47:00,Which data tool do you prefer?,Python,North,25-34
+R0366,2026-09-17 04:39:00,Which data tool do you prefer?,Power BI,East,25-34
+R0367,2026-09-05 10:33:00,Which data tool do you prefer?,Power BI,East,18-24
+R0368,2026-10-01 09:36:00,Which data tool do you prefer?,Excel,South,18-24
+R0369,2026-09-02 04:57:00,Which data tool do you prefer?,Python,North,18-24
+R0370,2026-10-01 21:27:00,Which data tool do you prefer?,Python,West,18-24
+R0371,2026-09-02 17:26:00,Which data tool do you prefer?,Power BI,South,18-24
+R0372,2026-09-09 06:32:00,Which data tool do you prefer?,Excel,West,45+
+R0373,2026-09-25 03:13:00,Which data tool do you prefer?,Tableau,East,25-34
+R0374,2026-10-08 15:52:00,Which data tool do you prefer?,Excel,South,35-44
+R0375,2026-09-17 08:08:00,Which data tool do you prefer?,Tableau,Central,45+
+R0376,2026-09-05 19:49:00,Which data tool do you prefer?,Python,North,18-24
+R0377,2026-09-10 07:35:00,Which data tool do you prefer?,Power BI,West,25-34
+R0378,2026-10-06 20:16:00,Which data tool do you prefer?,Python,West,35-44
+R0379,2026-09-30 01:39:00,Which data tool do you prefer?,Power BI,South,25-34
+R0380,2026-09-05 00:22:00,Which data tool do you prefer?,Power BI,South,25-34
+R0381,2026-09-16 09:30:00,Which data tool do you prefer?,Tableau,North,25-34
+R0382,2026-09-11 13:57:00,Which data tool do you prefer?,Tableau,Central,18-24
+R0383,2026-09-08 02:43:00,Which data tool do you prefer?,Python,Central,25-34
+R0384,2026-10-04 20:37:00,Which data tool do you prefer?,Excel,South,45+
+R0385,2026-09-25 17:00:00,Which data tool do you prefer?,Python,North,45+
+R0386,2026-09-08 04:18:00,Which data tool do you prefer?,Python,North,18-24
+R0387,2026-09-27 00:40:00,Which data tool do you prefer?,Power BI,North,35-44
+R0388,2026-09-17 13:01:00,Which data tool do you prefer?,Power BI,Central,18-24
+R0389,2026-09-03 11:01:00,Which data tool do you prefer?,Power BI,Central,45+
+R0390,2026-09-18 23:51:00,Which data tool do you prefer?,Tableau,North,18-24
+R0391,2026-09-08 09:49:00,Which data tool do you prefer?,Power BI,West,45+
+R0392,2026-09-10 19:26:00,Which data tool do you prefer?,Power BI,North,35-44
+R0393,2026-10-06 03:50:00,Which data tool do you prefer?,Python,South,18-24
+R0394,2026-09-29 09:50:00,Which data tool do you prefer?,Python,East,18-24
+R0395,2026-09-06 08:43:00,Which data tool do you prefer?,Power BI,West,35-44
+R0396,2026-10-05 01:16:00,Which data tool do you prefer?,Tableau,Central,18-24
+R0397,2026-09-23 23:20:00,Which data tool do you prefer?,Python,North,25-34
+R0398,2026-10-05 23:35:00,Which data tool do you prefer?,Excel,North,45+
+R0399,2026-09-30 21:11:00,Which data tool do you prefer?,Power BI,South,25-34
+R0400,2026-09-14 13:44:00,Which data tool do you prefer?,Python,South,25-34
+R0401,2026-09-22 09:28:00,Which data tool do you prefer?,Excel,Central,25-34
+R0402,2026-09-22 05:36:00,Which data tool do you prefer?,Tableau,West,18-24
+R0403,2026-09-29 19:08:00,Which data tool do you prefer?,Power BI,South,45+
+R0404,2026-09-10 22:28:00,Which data tool do you prefer?,Python,Central,18-24
+R0405,2026-09-14 07:45:00,Which data tool do you prefer?,Tableau,East,18-24
+R0406,2026-09-10 19:00:00,Which data tool do you prefer?,Excel,East,18-24
+R0407,2026-09-12 20:17:00,Which data tool do you prefer?,Tableau,East,45+
+R0408,2026-09-07 10:48:00,Which data tool do you prefer?,Python,North,18-24
+R0409,2026-09-02 11:05:00,Which data tool do you prefer?,Power BI,Central,35-44
+R0410,2026-10-08 14:25:00,Which data tool do you prefer?,Python,North,35-44
+R0411,2026-09-03 23:20:00,Which data tool do you prefer?,Python,North,35-44
+R0412,2026-10-06 12:28:00,Which data tool do you prefer?,Tableau,South,45+
+R0413,2026-09-01 02:57:00,Which data tool do you prefer?,Python,South,35-44
+R0414,2026-10-02 02:15:00,Which data tool do you prefer?,Python,North,45+
+R0415,2026-09-14 03:16:00,Which data tool do you prefer?,Python,North,18-24
+R0416,2026-09-21 16:57:00,Which data tool do you prefer?,Power BI,West,35-44
+R0417,2026-09-12 06:55:00,Which data tool do you prefer?,Power BI,Central,25-34
+R0418,2026-09-20 14:59:00,Which data tool do you prefer?,Tableau,North,25-34
+R0419,2026-09-19 01:29:00,Which data tool do you prefer?,Python,South,45+
+R0420,2026-09-22 04:33:00,Which data tool do you prefer?,Excel,East,45+
+R0421,2026-09-16 17:33:00,Which data tool do you prefer?,Python,Central,35-44
+R0422,2026-09-22 11:06:00,Which data tool do you prefer?,Power BI,West,25-34
+R0423,2026-10-04 00:26:00,Which data tool do you prefer?,Tableau,West,25-34
+R0424,2026-09-18 09:10:00,Which data tool do you prefer?,Power BI,East,25-34
+R0425,2026-09-15 10:55:00,Which data tool do you prefer?,Excel,East,18-24
+R0426,2026-09-06 06:29:00,Which data tool do you prefer?,Python,North,25-34
+R0427,2026-09-15 09:19:00,Which data tool do you prefer?,Tableau,Central,18-24
+R0428,2026-09-06 00:38:00,Which data tool do you prefer?,Excel,Central,18-24
+R0429,2026-09-08 07:12:00,Which data tool do you prefer?,Python,North,35-44
+R0430,2026-10-09 02:09:00,Which data tool do you prefer?,Excel,West,25-34
+R0431,2026-09-04 13:50:00,Which data tool do you prefer?,Python,North,45+
+R0432,2026-09-20 06:44:00,Which data tool do you prefer?,Python,West,25-34
+R0433,2026-10-04 08:55:00,Which data tool do you prefer?,Python,Central,18-24
+R0434,2026-10-09 03:04:00,Which data tool do you prefer?,Excel,North,18-24
+R0435,2026-09-06 20:50:00,Which data tool do you prefer?,Power BI,East,18-24
+R0436,2026-09-07 13:02:00,Which data tool do you prefer?,Python,North,45+
+R0437,2026-09-15 21:41:00,Which data tool do you prefer?,Excel,East,18-24
+R0438,2026-09-23 04:14:00,Which data tool do you prefer?,Tableau,Central,25-34
+R0439,2026-10-09 09:24:00,Which data tool do you prefer?,Power BI,North,45+
+R0440,2026-09-09 07:24:00,Which data tool do you prefer?,Excel,South,45+
+R0441,2026-09-07 13:49:00,Which data tool do you prefer?,Python,Central,18-24
+R0442,2026-09-11 03:03:00,Which data tool do you prefer?,Tableau,South,18-24
+R0443,2026-10-05 23:20:00,Which data tool do you prefer?,Python,North,18-24
+R0444,2026-09-02 04:51:00,Which data tool do you prefer?,Python,East,18-24
+R0445,2026-09-16 04:55:00,Which data tool do you prefer?,Tableau,East,18-24
+R0446,2026-09-05 18:11:00,Which data tool do you prefer?,Excel,West,25-34
+R0447,2026-09-07 06:47:00,Which data tool do you prefer?,Power BI,South,45+
+R0448,2026-10-07 16:10:00,Which data tool do you prefer?,Power BI,Central,25-34
+R0449,2026-09-01 01:35:00,Which data tool do you prefer?,Power BI,East,25-34
+R0450,2026-09-13 20:40:00,Which data tool do you prefer?,Python,South,18-24
+R0451,2026-10-07 14:48:00,Which data tool do you prefer?,Python,Central,35-44
+R0452,2026-09-25 07:48:00,Which data tool do you prefer?,Python,Central,25-34
+R0453,2026-09-03 20:53:00,Which data tool do you prefer?,Python,East,35-44
+R0454,2026-09-19 14:24:00,Which data tool do you prefer?,Tableau,North,45+
+R0455,2026-10-09 20:06:00,Which data tool do you prefer?,Python,East,18-24
+R0456,2026-09-17 00:25:00,Which data tool do you prefer?,Excel,East,18-24
+R0457,2026-09-22 03:29:00,Which data tool do you prefer?,Power BI,North,18-24
+R0458,2026-09-22 06:36:00,Which data tool do you prefer?,Power BI,West,25-34
+R0459,2026-09-27 10:01:00,Which data tool do you prefer?,Excel,Central,45+
+R0460,2026-09-08 11:44:00,Which data tool do you prefer?,Excel,North,18-24
+R0461,2026-10-04 14:05:00,Which data tool do you prefer?,Tableau,West,35-44
+R0462,2026-10-10 13:03:00,Which data tool do you prefer?,Power BI,North,25-34
+R0463,2026-09-06 16:51:00,Which data tool do you prefer?,Power BI,West,18-24
+R0464,2026-10-03 17:34:00,Which data tool do you prefer?,Tableau,East,18-24
+R0465,2026-10-03 16:13:00,Which data tool do you prefer?,Power BI,North,25-34
+R0466,2026-09-30 15:57:00,Which data tool do you prefer?,Python,Central,25-34
+R0467,2026-09-15 20:02:00,Which data tool do you prefer?,Excel,North,25-34
+R0468,2026-09-19 18:00:00,Which data tool do you prefer?,Python,East,18-24
+R0469,2026-10-04 13:38:00,Which data tool do you prefer?,Power BI,North,35-44
+R0470,2026-09-07 02:45:00,Which data tool do you prefer?,Tableau,Central,18-24
+R0471,2026-10-04 03:35:00,Which data tool do you prefer?,Excel,West,45+
+R0472,2026-10-07 19:50:00,Which data tool do you prefer?,Excel,Central,18-24
+R0473,2026-09-28 06:35:00,Which data tool do you prefer?,Python,East,18-24
+R0474,2026-09-14 15:43:00,Which data tool do you prefer?,Tableau,East,25-34
+R0475,2026-09-23 08:47:00,Which data tool do you prefer?,Python,West,25-34
+R0476,2026-09-03 00:06:00,Which data tool do you prefer?,Python,West,25-34
+R0477,2026-10-08 06:31:00,Which data tool do you prefer?,Python,Central,25-34
+R0478,2026-09-14 16:42:00,Which data tool do you prefer?,Python,North,45+
+R0479,2026-09-03 06:48:00,Which data tool do you prefer?,Excel,West,25-34
+R0480,2026-10-02 18:40:00,Which data tool do you prefer?,Excel,North,25-34
+R0481,2026-09-27 07:15:00,Which data tool do you prefer?,Excel,South,25-34
+R0482,2026-09-25 21:48:00,Which data tool do you prefer?,Python,Central,18-24
+R0483,2026-09-03 03:55:00,Which data tool do you prefer?,Python,South,25-34
+R0484,2026-10-01 00:48:00,Which data tool do you prefer?,Excel,West,18-24
+R0485,2026-09-26 11:49:00,Which data tool do you prefer?,Python,East,25-34
+R0486,2026-10-02 17:53:00,Which data tool do you prefer?,Power BI,South,18-24
+R0487,2026-10-04 02:14:00,Which data tool do you prefer?,Python,South,45+
+R0488,2026-09-09 11:28:00,Which data tool do you prefer?,Python,East,25-34
+R0489,2026-09-09 10:12:00,Which data tool do you prefer?,Excel,West,45+
+R0490,2026-10-07 22:49:00,Which data tool do you prefer?,Excel,West,25-34
+R0491,2026-09-22 05:47:00,Which data tool do you prefer?,Python,Central,18-24
+R0492,2026-09-18 12:28:00,Which data tool do you prefer?,Python,Central,35-44
+R0493,2026-09-12 11:42:00,Which data tool do you prefer?,Tableau,West,25-34
+R0494,2026-09-26 13:27:00,Which data tool do you prefer?,Python,West,35-44
+R0495,2026-10-01 03:48:00,Which data tool do you prefer?,Excel,South,25-34
+R0496,2026-09-01 02:12:00,Which data tool do you prefer?,Excel,East,25-34
+R0497,2026-09-23 02:31:00,Which data tool do you prefer?,Python,North,35-44
+R0498,2026-10-10 17:38:00,Which data tool do you prefer?,Excel,South,25-34
+R0499,2026-09-12 05:24:00,Which data tool do you prefer?,Power BI,Central,18-24
+R0500,2026-09-12 05:39:00,Which data tool do you prefer?,Tableau,East,25-34
